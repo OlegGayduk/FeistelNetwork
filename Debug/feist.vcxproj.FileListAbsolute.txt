@@ -1,0 +1,2 @@
+G:\cryptography\feist\Debug\feist.exe
+G:\cryptography\feist\Debug\feist.pdb
